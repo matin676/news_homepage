@@ -329,7 +329,7 @@ hr {
   }
 }
 
-@media(max-width: 500px){
+@media(max-width: 650px){
   .right-one{
     flex-direction: column;
   }
